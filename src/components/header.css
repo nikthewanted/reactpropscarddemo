@@ -1,0 +1,13 @@
+.header{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    height: auto;
+    
+    box-shadow: 10px 10px 10px lightgray;
+}
+.header--img {
+    height: auto;
+    width: auto;
+}
+
